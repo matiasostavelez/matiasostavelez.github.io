@@ -6,22 +6,54 @@ featured:
 
 monographs:
   - {
-      name: Reasoning with Concepts: Conceptual Spaces as a Framework (with Peter Gärdenfors)   ,
-      Under contract with MIT Press
+      name: "<em>Reasoning with Concepts: Conceptual Spaces as a Framework</em><br>with Peter Gärdenfors (forthcoming, MIT Press)",
+      url: ""
     }
 
 journal_articles:
   - {
-      name: "<em>Conceptual Spaces and Inductive Reasoning</em><br>Matías Osta-Vélez",
-      url: "https://example.com/journal1"
+      name: "<em>Analogical Reasoning: A Carnapian approach</em><br>with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors<br><em>Synthese</em>, forthcoming (2023)",
+      url: ""
     }
   - {
-      name: "<em>The Geometry of Inductive Biases</em><br>Matías Osta-Vélez",
-      url: "https://example.com/journal2"
+      name: "<em>Conceptual Coherence</em><br>with Peter Gärdenfors<br><em>Philosophical Psychology</em>, forthcoming (2025)",
+      url: ""
+    }
+  - {
+      name: "<em>Generics as expectations: Typicality and diagnosticity</em><br>with Peter Gärdenfors<br><em>Ratio</em>, 2024",
+      url: "https://doi.org/10.1111/rati.12424"
+    }
+  - {
+      name: "<em>Reasoning with concepts: A unifying framework</em><br>with Peter Gärdenfors<br><em>Minds & Machines</em>, 33, 451–485 (2023)",
+      url: "https://doi.org/10.1007/s11023-023-09640-2"
+    }
+  - {
+      name: "<em>Similarity-based reasoning in conceptual spaces</em><br>with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors<br><em>Frontiers in Psychology</em>, 14, 1234483 (2023)",
+      url: ""
+    }
+  - {
+      name: "<em>Analogy as a search procedure: A dimensional view</em><br>with Peter Gärdenfors<br><em>Journal of Experimental & Theoretical Artificial Intelligence</em>, 36(7), 1135–1154 (2022)",
+      url: ""
+    }
+  - {
+      name: "<em>Nonmonotonic reasoning, expectations orderings, and conceptual spaces</em><br>with Peter Gärdenfors<br><em>Journal of Logic, Language and Information</em>, 31, 70–97 (2021)",
+      url: ""
+    }
+  - {
+      name: "<em>Category-based induction in Conceptual Spaces</em><br>with Peter Gärdenfors<br><em>Journal of Mathematical Psychology</em>, 96, 102357 (2020)",
+      url: ""
+    }
+  - {
+      name: "<em>Methods of representation as inferential devices</em><br><em>Journal for General Philosophy of Science</em>, 50(2), 231–245 (2019)",
+      url: ""
     }
 
 book_chapters:
   - {
-      name: "<em>Reasoning and Conceptual Change</em><br>In: Handbook of Cognitive Science (2024)",
-      url: "https://example.com/bookchapter"
+      name: "<em>Language, concepts, and the nature of inference</em><br>In: E. Caorsi & R. Navia (Eds.), <em>Language, Meaning, and Philosophy</em>, Lexington Books, 2024",
+      url: ""
+    }
+  - {
+      name: "<em>La matematización galileana de la naturaleza según Husserl</em><br>In: C. Pallas (Ed.), <em>La Filosofía y su Enseñanza</em>, pp. 87–104, Montevideo: ANEP-CFE, 2016",
+      url: ""
     }
