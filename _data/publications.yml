@@ -6,18 +6,6 @@ featured:
 
 journal_articles:
   - {
-      name: "<em>Shock interactions, turbulence and the origin of the stellar mass spectrum.</em><br>Ralph E. Pudritz and N. K.-R. Kevlahan",
-      url: "http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf"
-    }
-
-book_chapters:
-  - {
-      name: "<em>Low shear diffusion central schemes for particle methods.</em><br>Jonathan Panuelos, James Wadsley, Nicholas Kevlahan",
-      url: "http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf"
-    }
-
-monographs:
-  - {
-      name: "<em>Numerical solutions of thin film equations for polymer flows.</em><br>Thomas Salez, Joshua D. McGraw, et al.",
-      url: "https://example.com"
+      name: "<em>This is a test journal article</em><br>Test Author",
+      url: "https://example.com/test"
     }
