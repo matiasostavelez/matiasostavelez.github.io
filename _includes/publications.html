@@ -2,12 +2,24 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
+      <h4>Journal Articles</h4>
+      {% for item in site.data.publications.journal_articles %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
+
+      <h4>Book Chapters</h4>
+      {% for item in site.data.publications.book_chapters %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
+
+      <h4>Monographs</h4>
+      {% for item in site.data.publications.monographs %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
