@@ -2,3 +2,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Matías Osta-Vélez" # the name of your site, e.g. ACME Corp.
 description: ""
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Talks"
+    url: /talks/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
