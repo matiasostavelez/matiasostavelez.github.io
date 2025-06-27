@@ -1,11 +1,27 @@
 featured:
   - {
-      name: "<em>Analogical reasoning: a Carnapian approach.</em><br>Igor Douven, Steven Verheyen, Shira Elqayam",
+      name: "<em>Analogical reasoning: a Carnapian approach</em><br>Igor Douven, Steven Verheyen, Shira Elqayam",
       url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
+    }
+
+monographs:
+  - {
+      name: "<em>Understanding Scientific Concepts</em><br>Matías Osta-Vélez",
+      url: "https://example.com/monograph"
     }
 
 journal_articles:
   - {
-      name: "<em>This is a test journal article</em><br>Test Author",
-      url: "https://example.com/test"
+      name: "<em>Conceptual Spaces and Inductive Reasoning</em><br>Matías Osta-Vélez",
+      url: "https://example.com/journal1"
+    }
+  - {
+      name: "<em>The Geometry of Inductive Biases</em><br>Matías Osta-Vélez",
+      url: "https://example.com/journal2"
+    }
+
+book_chapters:
+  - {
+      name: "<em>Reasoning and Conceptual Change</em><br>In: Handbook of Cognitive Science (2024)",
+      url: "https://example.com/bookchapter"
     }
