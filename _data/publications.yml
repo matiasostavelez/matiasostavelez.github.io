@@ -1,7 +1,6 @@
 featured:
 - {name: 'Analogical reasoning: a Carnapian approach. Igor Douven, Steven Verheyen, Shira Elqayam,', url: 'https://link.springer.com/article/10.1007/s11229-025-04991-y'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Analogical reasoning: a Carnapian approach. Igor Douven, Steven Verheyen, Shira Elqayam,'}
 
 index:
 - {name: 'Analogical reasoning: a Carnapian approach. Igor Douven, Steven Verheyen, Shira Elqayam,', url: 'https://link.springer.com/article/10.1007/s11229-025-04991-y'}
