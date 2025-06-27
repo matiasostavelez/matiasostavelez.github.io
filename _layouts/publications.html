@@ -1,7 +1,20 @@
----
-layout: default
----
+<h2>Journal Articles</h2>
+<ul>
+  {% for pub in site.data.publications.journal_articles %}
+    <li><a href="{{ pub.url }}">{{ pub.name }}</a></li>
+  {% endfor %}
+</ul>
 
-{{ content }}
+<h2>Book Chapters</h2>
+<ul>
+  {% for pub in site.data.publications.book_chapters %}
+    <li><a href="{{ pub.url }}">{{ pub.name }}</a></li>
+  {% endfor %}
+</ul>
 
-{% include publications.html %}
+<h2>Monographs</h2>
+<ul>
+  {% for pub in site.data.publications.monographs %}
+    <li><a href="{{ pub.url }}">{{ pub.name }}</a></li>
+  {% endfor %}
+</ul>
