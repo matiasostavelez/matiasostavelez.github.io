@@ -12,9 +12,9 @@ talks:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'History and Philosophy of Science I'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'History and Philosophy of Science II'}
+- {name: 'Philosophy of the Social Sciences', url: 'quantum-mechanics'}
+- {name: 'Formal methods in Philosophy of Science', url: 'stellar-structures'}
 
 social:
 - {icon: 'Google Scholar', link: 'https://scholar.google.com/citations?user=tDSs_kcAAAAJ&hl=en'}
