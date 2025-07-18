@@ -7,7 +7,7 @@ featured:
 
 monographs:
   - {
-      name: "<em>Reasoning with Concepts: Conceptual Spaces as a Framework</em><br>with Peter Gärdenfors (forthcoming, MIT Press)",
+      name: "<em>Reasoning with Concepts: Conceptual Spaces as a Framework</em><br>with Peter Gärdenfors MIT Press)",
       url: ""
     }
 
@@ -15,8 +15,9 @@ journal_articles:
   - PLLDPLPEDLPLDPLEDPLED
   
   - {
-      name: "<em>Analogical Reasoning: A Carnapian approach</em><br>with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors<br><em>Synthese</em>, forthcoming (2023)",
-      url: ""
+      name: "<em>Analogical Reasoning: A Carnapian approach</em> (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)
+      <br>Synthese, 2025.
+      url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
     }
   - {
       name: "<em>Conceptual Coherence</em><br>with Peter Gärdenfors<br><em>Philosophical Psychology</em>, forthcoming (2025)",
