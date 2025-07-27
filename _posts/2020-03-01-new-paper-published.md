@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Paper Published"
+date: 2024-04-22 00:00:00 -0400
 ---
 
 [Analogical reasoning: a Carnapian approach](https://link.springer.com/article/10.1007/s11229-025-04991-y)                                                                                                                
