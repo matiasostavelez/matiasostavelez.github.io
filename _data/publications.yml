@@ -7,34 +7,32 @@ monographs:
     url: ""
 
 journal_articles:
-  - name: "PLLDPLPEDLPLDPLEDPLED"
-    url: ""
-
-  - name: "<em>Analogical Reasoning: A Carnapian approach</em> (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)<br>Synthese, 2025."
+  
+  - name: "<em>Analogical Reasoning: A Carnapian approach</em> (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)<br><em>Synthese<em>, 2025."
     url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
 
-  - name: "<em>Conceptual Coherence</em><br>with Peter Gärdenfors<br><em>Philosophical Psychology</em>, forthcoming (2025)"
+  - name: "<em>Conceptual Coherence</em> (with Peter Gärdenfors) <br><em>Philosophical Psychology</em>, forthcoming."
     url: ""
 
-  - name: "<em>Generics as expectations: Typicality and diagnosticity</em><br>with Peter Gärdenfors<br><em>Ratio</em>, 2024"
+  - name: "<em>Generics as expectations: Typicality and diagnosticity</em><br>with Peter Gärdenfors<br><em>Ratio</em>, 2024."
     url: "https://doi.org/10.1111/rati.12424"
 
-  - name: "<em>Reasoning with concepts: A unifying framework</em><br>with Peter Gärdenfors<br><em>Minds & Machines</em>, 33, 451–485 (2023)"
+  - name: "<em>Reasoning with concepts: A unifying framework</em><br>with Peter Gärdenfors<br><em>Minds & Machines</em>, 2023."
     url: "https://doi.org/10.1007/s11023-023-09640-2"
 
-  - name: "<em>Similarity-based reasoning in conceptual spaces</em><br>with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors<br><em>Frontiers in Psychology</em>, 14, 1234483 (2023)"
+  - name: "<em>Similarity-based reasoning in conceptual spaces</em> (with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors)<br><em>Frontiers in Psychology</em>, 2023."
     url: ""
 
-  - name: "<em>Analogy as a search procedure: A dimensional view</em><br>with Peter Gärdenfors<br><em>Journal of Experimental & Theoretical Artificial Intelligence</em>, 36(7), 1135–1154 (2022)"
+  - name: "<em>Analogy as a search procedure: A dimensional view</em> (with Peter Gärdenfors) <br><em>Journal of Experimental & Theoretical Artificial Intelligence</em>, 2022."
     url: ""
 
-  - name: "<em>Nonmonotonic reasoning, expectations orderings, and conceptual spaces</em><br>with Peter Gärdenfors<br><em>Journal of Logic, Language and Information</em>, 31, 70–97 (2021)"
+  - name: "<em>Nonmonotonic reasoning, expectations orderings, and conceptual spaces</em> (with Peter Gärdenfors)<br><em>Journal of Logic, Language and Information</em>, 2021."
     url: ""
 
-  - name: "<em>Category-based induction in Conceptual Spaces</em><br>with Peter Gärdenfors<br><em>Journal of Mathematical Psychology</em>, 96, 102357 (2020)"
+  - name: "<em>Category-based induction in Conceptual Spaces</em> (with Peter Gärdenfors) <br><em>Journal of Mathematical Psychology</em>, 2020."
     url: ""
 
-  - name: "<em>Methods of representation as inferential devices</em><br><em>Journal for General Philosophy of Science</em>, 50(2), 231–245 (2019)"
+  - name: "<em>Methods of representation as inferential devices</em><br><em>Journal for General Philosophy of Science</em>, 2019."
     url: ""
 
 book_chapters:
