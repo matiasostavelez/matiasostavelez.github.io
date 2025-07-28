@@ -6,7 +6,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Recent courses</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Recent courses (2025)</h2>
     {% for course in site.data.settings.courses %}
       <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course.name }}</a></p>
     {% endfor %}
