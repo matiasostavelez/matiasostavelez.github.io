@@ -12,16 +12,19 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
 
+
       <h4>Journal Articles</h4>
       {% for item in site.data.publications.journal_articles %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
+
 
       <h4>Book Chapters</h4>
       {% for item in site.data.publications.book_chapters %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
 
+      
       <h4>Book Reviews</h4>
       {% for item in site.data.publications.book_reviews %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
