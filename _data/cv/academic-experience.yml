@@ -10,8 +10,11 @@
 - title: "External Member"
   description: "Munich Center for Mathematical Philosophy, LMU, Germany (2020–present)"
 
-- title: "External Member"
-  description: "Munich Center for Mathematical Philosophy, LMU, Germany (2020–present)"
+  - title: "Visiting scholar"
+  description: "IMT School for Advanced Studies Lucca, Lucca, Italy (SS 2025)"
+
+- title: "Visiting scholar"
+  description: "Department of Philosophy and Cognitive Science, Lund Universität, Sweden (SS 2019 and WS 2021)"
 
 - title: "PhD Candidate"
   description: "IHPST, Université Paris 1 Panthéon-Sorbonne; Département d'Études Cognitives, ENS, France (2016–2020)"
