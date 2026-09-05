@@ -7,7 +7,7 @@ monographs:
     url: "https://books.google.com.uy/books/about/Reasoning_with_Concepts.html?id=KANoEQAAQBAJ&redir_esc=y"
 
 journal_articles:
-  - name: "<em>Logic as Normative Modeling</em><br>(With Matteo De Benedetto)<br><em>Erkenntnis</em>, 2026."
+  - name: "<em>Logic as Normative Modeling (with Matteo De Benedetto)<br><em>Erkenntnis</em>, 2026."
     url: ""
 
   - name: "Conceptual Coherence (with Peter Gärdenfors)<br><em>Philosophy and the Mind Sciences</em>, 2026."
@@ -16,10 +16,10 @@ journal_articles:
   - name: "Analogical Reasoning: A Carnapian approach (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)<br><em>Synthese</em>, 2025."
     url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
 
-  - name: "Generics as expectations: Typicality and diagnosticity<br>with Peter Gärdenfors<br><em>Ratio</em>, 2024."
+  - name: "Generics as expectations: Typicality and diagnosticity (with Peter Gärdenfors)<br><em>Ratio</em>, 2024."
     url: "https://doi.org/10.1111/rati.12424"
 
-  - name: "Reasoning with concepts: A unifying framework<br>with Peter Gärdenfors<br><em>Minds & Machines</em>, 2023."
+  - name: "Reasoning with concepts: A unifying framework (with Peter Gärdenfors<br>)<em>Minds & Machines</em>, 2023."
     url: "https://doi.org/10.1007/s11023-023-09640-2"
 
   - name: "Similarity-based reasoning in conceptual spaces (with Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors)<br><em>Frontiers in Psychology</em>, 2023."
