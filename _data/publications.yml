@@ -1,23 +1,17 @@
-
 featured:
-  - name: "<em>Logic as Normative Molelling </em><br>Igor Douven, Steven Verheyen, Shira Elqayam"
+  - name: "<em>Logic as Normative Modelling</em><br>Igor Douven, Steven Verheyen, Shira Elqayam"
     url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
 
 monographs:
   - name: "<em>Reasoning with Concepts: Conceptual Spaces as a Framework</em> (with Peter Gärdenfors) <br> MIT Press, 2026."
     url: "https://books.google.com.uy/books/about/Reasoning_with_Concepts.html?id=KANoEQAAQBAJ&redir_esc=y"
 
-
 journal_articles:
-
- - name: "Analogical dddReasoning: A Carnapian approach (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)<br><em>Synthese</em>, 2025."
-    url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
-
- - name: "Conceptual Coherence (with Peter Gärdenfors)<br><em>Philosophy and the Mind Sciences</em>, 2026."
-    url: "https://philosophymindscience.org/index.php/phimisci/article/view/12377"
-  
   - name: "Analogical Reasoning: A Carnapian approach (with Igor Douven, Steven Verheyen, Shira Elqayam and Peter Gärdenfors)<br><em>Synthese</em>, 2025."
     url: "https://link.springer.com/article/10.1007/s11229-025-04991-y"
+
+  - name: "Conceptual Coherence (with Peter Gärdenfors)<br><em>Philosophy and the Mind Sciences</em>, 2026."
+    url: "https://philosophymindscience.org/index.php/phimisci/article/view/12377"
 
   - name: "Generics as expectations: Typicality and diagnosticity<br>with Peter Gärdenfors<br><em>Ratio</em>, 2024."
     url: "https://doi.org/10.1111/rati.12424"
@@ -40,7 +34,6 @@ journal_articles:
   - name: "Methods of representation as inferential devices<br><em>Journal for General Philosophy of Science</em>, 2019."
     url: ""
 
-
 book_chapters:
   - name: "Language, concepts, and the nature of inference<br>In: E. Caorsi & R. Navia (Eds.), <em>Language, Meaning, and Philosophy</em>, Lexington Books, 2024"
     url: ""
@@ -48,10 +41,9 @@ book_chapters:
   - name: "La matematización galileana de la naturaleza según Husserl<br>In: C. Pallas (Ed.), <em>La Filosofía y su Enseñanza</em>, pp. 87–104, Montevideo: ANEP-CFE, 2016"
     url: ""
 
-
 book_reviews:
-  - name: "Review of Selene Arfini, Ignorant Cognition<br><em>  Studies in Philosophy and Education y</em>, 2021"
+  - name: "Review of Selene Arfini, Ignorant Cognition<br><em>Studies in Philosophy and Education</em>, 2021"
     url: "https://link.springer.com/article/10.1007/s11217-021-09753-0"
 
-  - name: "Review of The enigma of reason<br><em> Philosophical Psychology</em>, 2019"
+  - name: "Review of The Enigma of Reason<br><em>Philosophical Psychology</em>, 2019"
     url: "https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1632429"
