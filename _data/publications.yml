@@ -53,3 +53,7 @@ book_reviews:
     url: "https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1632429"
 
 Under_review:
+    - name: "Inductive biases and the geometry of concept learning (with Peter Gärdenfors). [preprint]"
+      url: "https://osf.io/preprints/psyarxiv/t2pz6_v1"
+    - name: "L’Inférentialisme et la géométrie des raisons"
+      url: ""
