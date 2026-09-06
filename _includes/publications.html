@@ -4,30 +4,27 @@
 
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }} {% if item.url != "" %}<a href="{{ item.url }}">[paper]</a>{% endif %}</p>
       {% endfor %}
     {% else %}
       <h4>Books</h4>
       {% for item in site.data.publications.monographs %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }} {% if item.url != "" %}<a href="{{ item.url }}">[book]</a>{% endif %}</p>
       {% endfor %}
-
 
       <h4>Journal Articles</h4>
       {% for item in site.data.publications.journal_articles %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }} {% if item.url != "" %}<a href="{{ item.url }}">[paper]</a>{% endif %}</p>
       {% endfor %}
-
 
       <h4>Book Chapters</h4>
       {% for item in site.data.publications.book_chapters %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }} {% if item.url != "" %}<a href="{{ item.url }}">[chapter]</a>{% endif %}</p>
       {% endfor %}
 
-      
       <h4>Book Reviews</h4>
       {% for item in site.data.publications.book_reviews %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }} {% if item.url != "" %}<a href="{{ item.url }}">[review]</a>{% endif %}</p>
       {% endfor %}
     {% endif %}
   </div>
