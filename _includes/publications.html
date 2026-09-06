@@ -62,7 +62,17 @@
           {% endif %}
         </p>
       {% endfor %}
-
+      <h4>Under Review</h4>
+      {% for item in site.data.publications.under_review %}
+        {% assign parts = item.name | split: " [" %}
+        <p>
+          {{ parts[0] }}
+          {% if parts.size > 1 %}
+            {% assign link_text = parts[1] | remove: "]" %}
+            <a href="{{ item.url }}">[{{ link_text }}]</a>
+          {% endif %}
+        </p>
+      {% endfor %}
     {% endif %}
   </div>
 </div>
