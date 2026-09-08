@@ -7,16 +7,9 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-}
-
-body a {
-  color: $linkColor
-}
-
-body a {
-  text-decoration: none;
-}
-
-.publications p {
   font-size: 18px;
+}
+
+body a {
+  color: $linkColor;
 }
